@@ -11,4 +11,7 @@ software development engineering
 microsoft
 
 # linkedin
-kanani het
+[kanani het](https://www.linkedin.com/in/kanani-het-43349026b/)
+
+# instagram link
+https://www.instagram.com/kananihet__/
