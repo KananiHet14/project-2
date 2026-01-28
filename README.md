@@ -9,3 +9,6 @@ software development engineering
 
 # dream company
 microsoft
+
+# linkedin
+kanani het
